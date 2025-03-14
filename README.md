@@ -34,7 +34,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/form-builder.git
+   git clone https://github.com/samSoumyajitD/Dynamic-Form-Builder.git
    cd form-builder
    ```
 
